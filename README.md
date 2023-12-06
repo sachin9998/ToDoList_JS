@@ -1,4 +1,4 @@
-# Just Another ToDO List App
+# Just Another ToDo List App
 
 - Tech Stack: HTML, CSS, JavaScript
 - Learnings: EventListners, LocalStorage
